@@ -1,0 +1,5 @@
+before <Feature "login test": 1 scenario(s)> -- <Scenario "people login -- @1.1 login info">
+open login page here ?
+try input user name and pass
+check if login
+after <Feature "login test": 1 scenario(s)> -- <Scenario "people login -- @1.1 login info">
